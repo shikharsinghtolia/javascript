@@ -3,7 +3,7 @@
 // ways to declare a valriable
 // var let const
 
-//     let firstName = " Shikhar"
+//     let firstName = " S"
 
 // let lastName = "Sama"
 
@@ -23,7 +23,7 @@
 
 // let x 
 // let y
-// const name ="Shikhar"
+// const name ="S"
 
 // const age = 23;
 // x = "hey my name is " + name + " and i am of "+ age + " of age"
@@ -43,4 +43,21 @@
 // console.log(typeof s)
 // // acess value by key 
 // console.log(s[1])
+
+// Arrays and its methods 
+// numbers.push(199);
+// // console.log(numbers)
+// // numbers.pop();
+// // console.log(numbers)
+// // numbers.unshift(99);
+// // console.log(numbers)
+// // numbers.shift();
+// // console.log(numbers)
+// // numbers.reverse()
+// // console.log(numbers)
+
+// // x= numbers.includes(2)
+// x= numbers.indexOf(5)
+// x= numbers.slice(1,4);
+// console.log(x)
 

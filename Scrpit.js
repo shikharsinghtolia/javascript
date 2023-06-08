@@ -7,8 +7,8 @@ let firstName = " Shikhar"
 
 let lastName = "Sama"
 
-console.log(firstName,lastName)
-console.log()
+// console.log(firstName,lastName)
+// console.log()
 
 // let string = "developer"
 
@@ -16,6 +16,9 @@ console.log()
 // console.log(new_String)
 
 
-// 
-
-
+// Array 
+let x;
+const numbers = [1,2,3,4,5,6];
+// numbers[2]=69
+console.log(numbers)
+console.log(numbers.length)
