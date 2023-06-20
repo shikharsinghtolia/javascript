@@ -22,3 +22,9 @@ const numbers = [1,2,3,4,5,6];
 // numbers[2]=69
 console.log(numbers)
 console.log(numbers.length)
+
+const numb= [7,8,9,10];
+
+numb.push(numbers)
+
+console.log(numb)
